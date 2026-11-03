@@ -8,7 +8,7 @@ Part of **[urvee-data-lab](https://github.com/urvee-data-lab)** - my full archiv
 
 | # | Project | Problem | Key methods | Result |
 |---|---------|---------|-------------|--------|
-| - | *Projects are being added* | | | |
+| 1 | [Google Play Store Market Analysis](google-playstore-data-munging) | Clean ~10.8K app listings and analyse the market for a client planning an app launch | Data cleaning, EDA, confidence interval, Welch t-test, Mann–Whitney | 9,659 clean apps; 8 business questions answered; launch recommendations |
 
 ## How this repo is organised
 
